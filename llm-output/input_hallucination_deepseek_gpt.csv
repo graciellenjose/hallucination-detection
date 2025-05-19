@@ -1,13 +1,11 @@
-,question,answer,llm_response
+,question,answer,input_hallucination_reason,has_input_hallucination
 0,Como o código trata o crime de difamação quando há a eventual prova da verdade?,"O crime de difamação (art. 139, CP) consiste em atribuir a alguém fato ofensivo à sua reputação.
 
 Prova da verdade: Se o acusado provar a veracidade do fato difamatório, a conduta será atípica (não constitui crime), exceto se:
 
 O fato se referir à vida privada da vítima;
 
-A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","0.
-
-A resposta gerada está diretamente relacionada ao tema da pergunta e não foge do tópico. A discussão sobre o crime de difamação e a prova da verdade está em perfeita harmonia com a pergunta feita, portanto, não há alucinação de input."
+A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","Não houve alucinação de input. A resposta gerada está diretamente relacionada ao tópico da pergunta feita, que é a discussão sobre o crime de difamação e a prova da verdade. A resposta fornece informações precisas sobre o tema, não se desviando do assunto ou não fazendo nenhuma alusão irrelevante.",0.
 1,Qual a pena prevista para injúria quando há utilização de elementos referentes à religião ou condição de pessoa idosa ou com deficiência?,"A injúria (art. 140, CP) é ofender a dignidade de alguém.
 
 Qualificadora: 
@@ -16,9 +14,7 @@ Se a injúria utilizar elementos referentes a:
 - Condição de pessoa idosa (60+ anos);
 - Pessoa com deficiência.
 
-Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).","0
-
-A resposta gerada está diretamente relacionada ao tópico da pergunta feita, apresentando informações sobre a pena prevista para injúria quando há utilização de elementos referentes à religião ou condição de pessoa idosa ou com deficiência. Não há divergência do tema ou mudança para um assunto completamente diferente, o que caracteriza alucinação de input."
+Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).","A resposta gerada se manteve dentro do tópico da pergunta feita pelo usuário e não apresentou alucinação de input. A resposta detalhou a pena prevista para injúria quando há utilização de elementos referentes à religião, condição de pessoa idosa ou com deficiência, o que está diretamente relacionado ao questionamento original.",0.
 2,Quais práticas configuram o crime de falsificação de documento público?,"art. 297, CP
 
 Configura-se quando alguém:
@@ -26,17 +22,13 @@ Configura-se quando alguém:
 - Usa documento público falso sabendo que é falso;
 - Omite declaração que deveria constar em documento público.
 
-Pena: Reclusão de 2 a 6 anos + multa","0
-
-A resposta fornecida está relacionada ao tema da pergunta, especificamente sobre as práticas que configuram o crime de falsificação de documento público. A resposta é precisa e objetiva, não apresentando nenhuma informação irrelevante ou desviando do tópico da pergunta."
+Pena: Reclusão de 2 a 6 anos + multa","A resposta gerada não apresenta alucinação de input, pois está relacionada ao tópico da pergunta inicial (""Quais práticas configuram o crime de falsificação de documento público?"") e não menciona informações irrelevantes ou desvinculadas do contexto da pergunta.",0.
 3,Como o Código Penal trata o crime de dano qualificado por violências ou meios cruéis?,"O crime de dano (art. 163, CP) torna-se qualificado se cometido:
 
 - Com violência (contra pessoa ou coisa);
 - Com meios cruéis (causando sofrimento desnecessário).
 
-Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","0
-
-A resposta gerada é direta e relacionada ao tópico da pergunta feita pelo usuário (""Como o Código Penal trata o crime de dano qualificado por violências ou meios cruéis?""). Ela apresenta informações precisas sobre o crime de dano qualificado no Código Penal, incluindo as condicionantes para a sua configuração e a pena correspondente. A resposta não foge do tópico da pergunta e não apresenta conteúdo deslocado ou irrelevante em relação ao assunto abordado."
+Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","A resposta gerada está diretamente relacionada ao tópico da pergunta feita pelo usuário, que é o tratamento do crime de dano qualificado por violências ou meios cruéis no Código Penal. Não há divergência com a pergunta, portanto não houve alucinação de input.",0.
 4,Quais ações constituem o crime de extorsão?,"O crime de extorsão está previsto no artigo 158 do Código Penal Brasileiro e consiste em obter vantagem econômica ou qualquer outro benefício ilegítimo mediante violência, grave ameaça ou depois de reduzir a vítima à impossibilidade de resistência.
 
 Elementos que configuram a extorsão (art. 158, CP)
@@ -51,20 +43,16 @@ Conduta do agente:
 - Crimes de Perigo Resultante
 - Afetam indivíduos específicos, mas o perigo é elemento do crime (ex.: dirigir embriagado – art. 306, CTB).
 - Bem jurídico: vida/integridade de pessoa(s) determinada(s).
-","0.
-
-A resposta gerada atende ao tópico da pergunta ""Quais ações constituem o crime de extorsão?"" e fornece informações precisas sobre o crime de extorsão, sua configuração e os elementos que a definem. A resposta não apresenta qualquer relacionamento com outro tema ou assunto que não seja o crime de extorsão, portanto, não há alucinação de input."
+","A resposta gerada está diretamente relacionada ao tópico da pergunta feita (""Quais ações constituem o crime de extorsão?""), descrevendo os elementos que configuram o crime e seus componentes, sem fugir do assunto ou mencionar informações desnecessárias.",0.
 5,Como a legislação penal brasileira trata o reingresso de estrangeiro expulsos do país?,"É crime reingressar no Brasil após expulsão, sem autorização.
-Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","0.
+Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","Não houve alucinação de input.
 
-A resposta gerada não foge do tópico da pergunta feita pelo usuário. A pergunta perguntava sobre como a legislação penal brasileira trata o reingresso de estrangeiro expulsos do país, e a resposta fornece informações específicas sobre essa área, sem mencionar ou relacionar com outro tema."
+A resposta gerada está diretamente relacionada ao tópico da pergunta feita, apresentando informações sobre a legislação penal brasileira e como ela trata o reingresso de estrangeiros expulsos do país.",0.
 6,Quais fatores podem reduzir o prazo de prescrição do crime?,"O prazo prescricional pode ser reduzido se:
 
 O agente for réu primário (não tem condenações anteriores);
 O crime for de menor potencial ofensivo (Lei nº 9.099/95);
-Houver circunstâncias atenuantes (art. 110, CP).","0.
-
-A resposta fornecida está diretamente relacionada ao tema da pergunta (""Quais fatores podem reduzir o prazo de prescrição do crime?""), apresentando informações precisas e relevantes sobre os fatores que podem influenciar no prazo de prescrição do crime. A resposta não foge do tópico da pergunta, portanto, não há alucinação de input."
+Houver circunstâncias atenuantes (art. 110, CP).","A resposta gerada é relevante e está diretamente relacionada ao tópico da pergunta feita pelo usuário (""Quais fatores podem reduzir o prazo de prescrição do crime?""), não há divergência ou alucinação de input.",0.
 7,Como o Código Penal regula o crime de sequestro e quais as penalidades relacionadas?,"Sequestro (art. 148, CP)
 
 Definição: Privar alguém de sua liberdade por meio de:
@@ -77,9 +65,9 @@ Pena: Reclusão de 1 a 3 anos (se não houver agravantes).
 - Agravantes (aumentam a pena):
 - Sequestro por mais de 24h;
 - Vítima menor de 18 anos ou idosa;
-- Extorsão como motivação.","0
+- Extorsão como motivação.","Não houve alucinação de input.
 
-A resposta gerada está diretamente relacionada ao tópico da pergunta feita, fornecendo informações sobre a definição e as penalidades do crime de sequestro regulamentadas pelo Código Penal. Não há divergência entre o conteúdo da pergunta e da resposta, portanto, não há alucinação de input."
+A resposta gerada se manteve dentro do tópico da pergunta feita, apresentando a definição e os detalhes sobre o crime de sequestro, incluindo a pena aplicável e as possíveis agravantes que podem aumentar essa pena. A resposta não apresenta informações desnecessárias ou relacionadas a outros temas, mantendo-se dentro do contexto da pergunta inicial.",0.
 8,"Quais as agravantes para o homicídio qualificado, conforme o artigo do Código Penal?","Homicídio qualificado (art. 121, §2º, CP)
 
 São agravantes (motivos ou meios que tornam o crime mais grave):
@@ -88,13 +76,9 @@ São agravantes (motivos ou meios que tornam o crime mais grave):
 - Meios cruéis (sofrimento desnecessário);
 - Emboscada (lugar oculto);
 - Incêndio, explosivo ou veneno;
-- Contra vítima menor de 14 ou maior de 60 anos.","0.
-
-A resposta está direcionada ao tópico da pergunta feita, apresentando informações sobre as agravantes para o homicídio qualificado, conforme o artigo do Código Penal. A resposta não foge do tema da pergunta e não apresenta nenhum tipo de desvio ou irrelevância em relação à questão tratada."
+- Contra vítima menor de 14 ou maior de 60 anos.","A resposta gerada está diretamente relacionada ao tópico da pergunta, apresentando informações sobre as agravantes para o homicídio qualificado, conforme o artigo do Código Penal. Isso indica que não houve alucinação de input.",0.
 9,Em que condições o condenado poderá exercer trabalho externo no regime fechado?,"O condenado em regime fechado pode trabalhar externamente se:
 - Cumpre 1/6 da pena (se primário) ou 1/4 (se reincidente);
 - Comportamento adequado;
 - Trabalho compatível com a execução penal;
-- Autorização judicial.","0.
-
-A resposta fornecida está diretamente relacionada ao tópico da pergunta, discutindo as condições em que um condenado pode exercer trabalho externo no regime fechado. A resposta não apresenta qualquer informação desnecessária ou desviante do assunto principal, não há alucinação de input."
+- Autorização judicial.","Explicação: A resposta gerada está diretamente relacionada ao tópico da pergunta, que é sobre as condições para o condenado exercer trabalho externo no regime fechado. Não há divergência do assunto ou introdução de informações irrelevantes, portanto não houve alucinação de input.",0.
