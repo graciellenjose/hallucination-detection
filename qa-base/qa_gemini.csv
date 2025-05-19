@@ -1,0 +1,64 @@
+ID pergunta,Pergunta,Resposta,Alucinação,Motivo
+1,Como o código trata o crime de difamação quando há a eventual prova da verdade?,"No crime de difamação (art. 139 do Código Penal), a prova da verdade da imputação (chamada exceptio veritatis) geralmente não é admitida. Isso porque o bem jurídico protegido é a honra objetiva da pessoa, ou seja, a reputação perante terceiros. Mesmo que o fato difamatório seja verdadeiro, a sua divulgação pode ser considerada lesiva à reputação.
+
+No entanto, o § 3º do artigo 139 traz uma exceção: a prova da verdade é admitida se a imputação se referir a fato de que o ofendido foi processado e absolvido judicialmente. Nesse caso específico, demonstrar a verdade da acusação original pode ser relevante.",Factual,Artigo 139 do código penal não possui parágrafos.
+2,Qual a pena prevista para injúria quando há utilização de elementos referentes à religião ou condição de pessoa idosa ou com deficiência?,"A injúria, prevista no artigo 140 do Código Penal, tem como pena base a detenção de um a seis meses ou multa. No entanto, o § 3º do mesmo artigo estabelece uma qualificadora para a injúria quando utilizada ""elementos referentes a religião ou à condição de pessoa idosa ou com deficiência"".",Input,No código penal diz que é um a três anos ou multa. Não respondeu a pergunta.
+3,Quais práticas configuram o crime de falsificação de documento público?,"O artigo 297 do Código Penal tipifica o crime de falsificação de documento público. As principais condutas que o configuram são:
+
+Fabricar integralmente documento público falso.
+Alterar documento público verdadeiro.
+Inserir em documento público verdadeiro declaração falsa ou diversa da que deveria ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante.
+Suprimir ou ocultar, em documento público verdadeiro, qualquer dado ou informação que devia constar.
+Usar qualquer dos documentos falsificados ou alterados, sabendo da falsidade ou alteração.
+Falsificar passaporte, folha de identificação ou documento de viagem, ou deles fazer uso.
+Para a configuração do crime, é essencial a intenção de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante.",Não,
+4,Como o Código Penal trata o crime de dano qualificado por violências ou meios cruéis?,"O crime de dano simples está previsto no artigo 163 do Código Penal. O dano se torna qualificado, com pena mais severa, quando ocorre alguma das hipóteses do artigo 163, parágrafo único. A qualificadora de ""violência ou grave ameaça à pessoa"" está prevista no inciso II. Já a qualificadora de ""meio cruel"" não está expressamente mencionada nesse inciso, mas a interpretação jurisprudencial e doutrinária entende que a utilização de meios que causem sofrimento desnecessário e excessivo à vítima, durante a prática do dano, pode qualificar o crime por analogia in malam partem (em desfavor do réu), embora essa interpretação seja mais controversa e menos comum.
+
+É mais comum que a violência ou grave ameaça à pessoa esteja relacionada a outros crimes, como roubo ou extorsão, nos quais o dano ao patrimônio é um meio para a consecução do crime principal.",Factual,Está no inciso I.
+5,Quais ações constituem o crime de extorsão?,"No Brasil, o crime de extorsão está previsto no artigo 158 do Código Penal e se configura por meio das seguintes ações:
+
+Constranger alguém: Essa é a ação nuclear do crime. O constrangimento significa obrigar, forçar, compelir a vítima a fazer ou deixar de fazer algo contra a sua vontade. Essa coação não precisa ser física; pode ser moral, mediante grave ameaça.
+
+Mediante violência ou grave ameaça: A violência se refere ao emprego de força física contra a vítima. A grave ameaça consiste na promessa de um mal grave e injusto, capaz de intimidar a vítima e viciar sua vontade. Essa ameaça pode ser dirigida à própria vítima ou a pessoas a ela ligadas (familiares, amigos, etc.).
+
+Com o intuito de obter para si ou para outrem indevida vantagem econômica: O objetivo do agente é conseguir um benefício patrimonial ilícito. Essa vantagem pode ser dinheiro, bens, valores, direitos ou qualquer outra coisa que tenha valor econômico. O intuito de obter a vantagem indevida é essencial para caracterizar a extorsão.
+
+A fazer, tolerar que se faça ou deixar de fazer alguma coisa: O constrangimento exercido sobre a vítima visa a um comportamento específico:
+
+Fazer: A vítima é obrigada a praticar um ato, como entregar dinheiro, assinar um documento, etc.
+Tolerar que se faça: A vítima é forçada a permitir que o agente ou terceiro realize alguma ação, como ocupar um imóvel, explorar um negócio, etc.
+Deixar de fazer: A vítima é coagida a não praticar um ato, como denunciar um crime, cobrar uma dívida, etc.",Não,
+6,Como a legislação penal brasileira trata o reingresso de estrangeiro expulsos do país?,"O reingresso de estrangeiro que foi expulso do território nacional é considerado crime, previsto no artigo 338 do Código Penal: ""Reingressar no território nacional estrangeiro que dele foi expulso: Pena - detenção, de um a quatro anos, sem prejuízo da nova expulsão após o cumprimento da pena.""",Não,
+7,Quais fatores podem reduzir o prazo de prescrição do crime?,"O Código Penal prevê duas causas gerais de redução do prazo de prescrição (art. 115):
+
+Ser o agente, ao tempo do crime, menor de 21 (vinte e um) anos: A menoridade penal, embora fixada em 18 anos para fins de imputabilidade, ainda influencia na contagem do prazo prescricional, reconhecendo uma menor maturidade do agente à época do delito.
+
+Ser o agente, na data da sentença, maior de 70 (setenta) anos: A senilidade também é considerada um fator que justifica a redução do prazo prescricional, possivelmente em razão da maior dificuldade de persecução penal e da finalidade da pena em relação a uma pessoa idosa.
+
+Nesses dois casos, os prazos de prescrição previstos no artigo 109 do Código Penal são reduzidos pela metade. É importante ressaltar que essas são causas gerais de redução, aplicáveis tanto à prescrição da pretensão punitiva (antes do trânsito em julgado da sentença) quanto à prescrição da pretensão executória (após o trânsito em julgado).",Não,
+8,Como o Código Penal regula o crime de sequestro e quais as penalidades relacionadas?,"O crime de sequestro e cárcere privado está previsto no artigo 148 do Código Penal: ""Privar alguém de sua liberdade, mediante sequestro ou cárcere privado: Pena - reclusão, de um a três anos.""
+
+O tipo penal abrange tanto o sequestro (retenção da vítima em local diverso de sua residência ou habitual) quanto o cárcere privado (confinamento da vítima em um local fechado).
+
+O parágrafo 1º do artigo 148 prevê diversas causas de aumento de pena, elevando a reclusão para dois a oito anos, se:
+
+A vítima for ascendente, descendente, cônjuge ou companheiro do agente ou maior de 60 (sessenta) anos.
+O crime for praticado mediante violência ou grave ameaça.
+O crime durar mais de quinze dias.
+O crime for praticado contra menor de 18 (dezoito) anos.
+O crime for praticado com finalidade libidinosa.
+O parágrafo 2º estabelece uma forma qualificada do crime, com pena de reclusão de dois a oito anos, se resultar à vítima lesão corporal de natureza grave ou morte.",Factual,é de dois a cinco anos.
+9,"Quais as agravantes para o homicídio qualificado, conforme o artigo do Código Penal?","O homicídio qualificado está previsto no artigo 121, § 2º, do Código Penal. As qualificadoras, que tornam o crime mais grave e elevam a pena de reclusão de doze a trinta anos, são:
+
+Inciso I: Mediante paga ou promessa de recompensa, ou por outro motivo torpe.
+Inciso II: Por motivo fútil.
+Inciso III: Com emprego de veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel, ou de que possa resultar perigo comum.
+Inciso IV: À traição, de emboscada, ou mediante dissimulação ou outro recurso que dificulte ou torne impossível a defesa do ofendido.
+Inciso V: Para assegurar a execução, a ocultação, a impunidade ou vantagem de outro crime.
+Inciso VI: Contra a mulher por razões da condição de sexo feminino (feminicídio).
+Inciso VII: Contra autoridade ou agente descrito nos arts. 142 e 144 da Constituição Federal, integrantes do sistema prisional e da Força Nacional de Segurança Pública, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente consanguíneo até o terceiro grau, em razão dessa condição.
+Inciso VIII: Contra pessoa menor de 14 (quatorze) anos.
+É importante notar que essas são as qualificadoras expressamente previstas no artigo 121, § 2º. A incidência de uma dessas qualificadoras torna o homicídio um crime hediondo, com consequências processuais e penais mais severas.",Não,
+10,Em que condições o condenado poderá exercer trabalho externo no regime fechado?,"A Lei de Execução Penal (Lei nº 7.210/84) estabelece que, em regra, o trabalho externo não é admitido para condenados em regime fechado (art. 36, § 1º).
+
+No entanto, o artigo 37 da LEP traz uma exceção: o trabalho externo poderá ser autorizado a presos em regime fechado somente em serviços ou obras públicas, mediante cautelas contra a fuga e em obediência a determinados requisitos, como aptidão, disciplina e responsabilidade.",Factual,"Tanto o artigo 36 no livro do Código Penal, quanto o artigo 36 da lei 7210 falam coisas diferes do que está no primeiro parágrafo da resposta. A segunda alucinação é factual porque o artigo que fala onde poderá ser exercido o tarbalho externo é o 36, que também permite que preso exerça em entidades privadas."

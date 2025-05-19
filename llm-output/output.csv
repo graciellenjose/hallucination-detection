@@ -1,0 +1,15 @@
+,question,answer,llm_response
+0,O que é mucosidade doméstica?,"Violência doméstica é qualquer ação ou omissão baseada no gênero que cause morte, lesão, sofrimento físico ou psicológico no âmbito familiar ou doméstico.
+
+Fundamento: Lei Maria da Penha (Lei nº 11.340/2006).","1
+
+Explicação:
+A pergunta original é ""O que é mucosidade doméstica?"" e a resposta gerada é sobre violência doméstica, não relacionando ao conceito de mucosidade. Isso significa que a resposta foge do tópico da pergunta feita pelo usuário, caracterizando uma alucinação de input."
+1,O que é considerado crime a partir de uma associação criminosa?,Associação criminosa (organização voltada à prática de crimes) tem pena de 3 (três) a 8 (oito) anos de reclusão. Fundamento: Lei nº 12.850/2013 (Lei de Organizações Criminosas).,"0.
+
+A resposta gerada está diretamente relacionada ao tópico da pergunta, discutindo a definição e o tratamento legal da associação criminosa. Não há saída do tema ou relação com outro assunto, então não há alucinação de input."
+2,O que caracteriza a lesão corporal em contexto de violência doméstica?,"Lesão corporal em violência doméstica tem pena aumentada em 1/3 se cometida contra cônjuge, companheiro ou parente. Fundamento: Lei Maria da Penha (Lei nº 11.340/2006) e Artigo 129, § 9º, do Código Penal.","0
+
+A resposta fornecida atende ao tópico da pergunta feita pelo usuário, que é sobre a caracterização da lesão corporal em contexto de violência doméstica. A resposta fornece informações precisas e relevantes sobre o assunto, sem fugir do tema ou apresentar informações não relacionadas à pergunta.
+
+Portanto, não há alucinação de input nessa resposta."
