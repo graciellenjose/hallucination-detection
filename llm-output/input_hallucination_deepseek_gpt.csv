@@ -6,7 +6,11 @@ Prova da verdade: Se o acusado provar a veracidade do fato difamatório, a condu
 O fato se referir à vida privada da vítima;
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","Não houve alucinação de input. A resposta gerada está diretamente relacionada ao tópico da pergunta feita, que é a discussão sobre o crime de difamação e a prova da verdade. A resposta fornece informações precisas sobre o tema, não se desviando do assunto ou não fazendo nenhuma alusão irrelevante.",0.
+=======
+A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","A resposta está diretamente relacionada ao tratamento do crime de difamação no código penal, explicando corretamente a questão da prova da verdade. Portanto, não houve alucinação de input.",0 
+>>>>>>> Stashed changes
 =======
 A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","A resposta está diretamente relacionada ao tratamento do crime de difamação no código penal, explicando corretamente a questão da prova da verdade. Portanto, não houve alucinação de input.",0 
 >>>>>>> Stashed changes
@@ -19,7 +23,11 @@ Se a injúria utilizar elementos referentes a:
 - Pessoa com deficiência.
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).","A resposta gerada se manteve dentro do tópico da pergunta feita pelo usuário e não apresentou alucinação de input. A resposta detalhou a pena prevista para injúria quando há utilização de elementos referentes à religião, condição de pessoa idosa ou com deficiência, o que está diretamente relacionado ao questionamento original.",0.
+=======
+Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).","Houve resposta direta e pertinente à pergunta sobre a pena prevista para injúria qualificada por elementos de religião, idade ou deficiência, sem desviar do tema solicitado. Portanto, não houve alucinação de input.",0 
+>>>>>>> Stashed changes
 =======
 Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).","Houve resposta direta e pertinente à pergunta sobre a pena prevista para injúria qualificada por elementos de religião, idade ou deficiência, sem desviar do tema solicitado. Portanto, não houve alucinação de input.",0 
 >>>>>>> Stashed changes
@@ -31,7 +39,11 @@ Configura-se quando alguém:
 - Omite declaração que deveria constar em documento público.
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Pena: Reclusão de 2 a 6 anos + multa","A resposta gerada não apresenta alucinação de input, pois está relacionada ao tópico da pergunta inicial (""Quais práticas configuram o crime de falsificação de documento público?"") e não menciona informações irrelevantes ou desvinculadas do contexto da pergunta.",0.
+=======
+Pena: Reclusão de 2 a 6 anos + multa","Não houve alucinação de input porque a resposta está diretamente relacionada ao tema da pergunta sobre as práticas que configuram o crime de falsificação de documento público, citando o artigo do Código Penal e detalhando as ações que caracterizam o crime, além da pena correspondente.",0.
+>>>>>>> Stashed changes
 =======
 Pena: Reclusão de 2 a 6 anos + multa","Não houve alucinação de input porque a resposta está diretamente relacionada ao tema da pergunta sobre as práticas que configuram o crime de falsificação de documento público, citando o artigo do Código Penal e detalhando as ações que caracterizam o crime, além da pena correspondente.",0.
 >>>>>>> Stashed changes
@@ -41,7 +53,11 @@ Pena: Reclusão de 2 a 6 anos + multa","Não houve alucinação de input porque 
 - Com meios cruéis (causando sofrimento desnecessário).
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","A resposta gerada está diretamente relacionada ao tópico da pergunta feita pelo usuário, que é o tratamento do crime de dano qualificado por violências ou meios cruéis no Código Penal. Não há divergência com a pergunta, portanto não houve alucinação de input.",0.
+=======
+Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","Não houve alucinação de input, pois a resposta está diretamente relacionada ao tratamento do Código Penal sobre o crime de dano qualificado por violências ou meios cruéis, conforme solicitado na pergunta.",0.
+>>>>>>> Stashed changes
 =======
 Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","Não houve alucinação de input, pois a resposta está diretamente relacionada ao tratamento do Código Penal sobre o crime de dano qualificado por violências ou meios cruéis, conforme solicitado na pergunta.",0.
 >>>>>>> Stashed changes
@@ -60,6 +76,7 @@ Conduta do agente:
 - Afetam indivíduos específicos, mas o perigo é elemento do crime (ex.: dirigir embriagado – art. 306, CTB).
 - Bem jurídico: vida/integridade de pessoa(s) determinada(s).
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ","A resposta gerada está diretamente relacionada ao tópico da pergunta feita (""Quais ações constituem o crime de extorsão?""), descrevendo os elementos que configuram o crime e seus componentes, sem fugir do assunto ou mencionar informações desnecessárias.",0.
 5,Como a legislação penal brasileira trata o reingresso de estrangeiro expulsos do país?,"É crime reingressar no Brasil após expulsão, sem autorização.
 Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","Não houve alucinação de input.
@@ -70,12 +87,21 @@ A resposta gerada está diretamente relacionada ao tópico da pergunta feita, ap
 5,Como a legislação penal brasileira trata o reingresso de estrangeiro expulsos do país?,"É crime reingressar no Brasil após expulsão, sem autorização.
 Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","Houve coerência entre a pergunta sobre a legislação penal brasileira referente ao reingresso de estrangeiros expulsos do país e a resposta fornecida, que tratou exatamente desse tema, mencionando a criminalidade do ato e a pena correspondente. Portanto, não houve alucinação de input.",0 
 >>>>>>> Stashed changes
+=======
+","Não houve alucinação de input porque a resposta está diretamente relacionada à pergunta sobre as ações que constituem o crime de extorsão, detalhando os elementos legais e condutas envolvidas nesse crime.",0.
+5,Como a legislação penal brasileira trata o reingresso de estrangeiro expulsos do país?,"É crime reingressar no Brasil após expulsão, sem autorização.
+Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","Houve coerência entre a pergunta sobre a legislação penal brasileira referente ao reingresso de estrangeiros expulsos do país e a resposta fornecida, que tratou exatamente desse tema, mencionando a criminalidade do ato e a pena correspondente. Portanto, não houve alucinação de input.",0 
+>>>>>>> Stashed changes
 6,Quais fatores podem reduzir o prazo de prescrição do crime?,"O prazo prescricional pode ser reduzido se:
 
 O agente for réu primário (não tem condenações anteriores);
 O crime for de menor potencial ofensivo (Lei nº 9.099/95);
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Houver circunstâncias atenuantes (art. 110, CP).","A resposta gerada é relevante e está diretamente relacionada ao tópico da pergunta feita pelo usuário (""Quais fatores podem reduzir o prazo de prescrição do crime?""), não há divergência ou alucinação de input.",0.
+=======
+Houver circunstâncias atenuantes (art. 110, CP).","Não houve alucinação de input, pois a resposta está diretamente relacionada à pergunta sobre fatores que podem reduzir o prazo de prescrição do crime, fornecendo informações pertinentes e específicas ao tema.",0.
+>>>>>>> Stashed changes
 =======
 Houver circunstâncias atenuantes (art. 110, CP).","Não houve alucinação de input, pois a resposta está diretamente relacionada à pergunta sobre fatores que podem reduzir o prazo de prescrição do crime, fornecendo informações pertinentes e específicas ao tema.",0.
 >>>>>>> Stashed changes
@@ -92,9 +118,13 @@ Pena: Reclusão de 1 a 3 anos (se não houver agravantes).
 - Sequestro por mais de 24h;
 - Vítima menor de 18 anos ou idosa;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Extorsão como motivação.","Não houve alucinação de input.
 
 A resposta gerada se manteve dentro do tópico da pergunta feita, apresentando a definição e os detalhes sobre o crime de sequestro, incluindo a pena aplicável e as possíveis agravantes que podem aumentar essa pena. A resposta não apresenta informações desnecessárias ou relacionadas a outros temas, mantendo-se dentro do contexto da pergunta inicial.",0.
+=======
+- Extorsão como motivação.","Não houve alucinação de input, pois a resposta está diretamente relacionada à pergunta feita, explicando como o Código Penal regula o crime de sequestro e indicando as penalidades correspondentes, incluindo definições, penas e agravantes.",0.
+>>>>>>> Stashed changes
 =======
 - Extorsão como motivação.","Não houve alucinação de input, pois a resposta está diretamente relacionada à pergunta feita, explicando como o Código Penal regula o crime de sequestro e indicando as penalidades correspondentes, incluindo definições, penas e agravantes.",0.
 >>>>>>> Stashed changes
@@ -107,7 +137,11 @@ São agravantes (motivos ou meios que tornam o crime mais grave):
 - Emboscada (lugar oculto);
 - Incêndio, explosivo ou veneno;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Contra vítima menor de 14 ou maior de 60 anos.","A resposta gerada está diretamente relacionada ao tópico da pergunta, apresentando informações sobre as agravantes para o homicídio qualificado, conforme o artigo do Código Penal. Isso indica que não houve alucinação de input.",0.
+=======
+- Contra vítima menor de 14 ou maior de 60 anos.","Não houve alucinação de input, pois a resposta está diretamente relacionada à pergunta sobre os agravantes para o homicídio qualificado conforme o artigo do Código Penal, listando os motivos e circunstâncias que configuram tais agravantes.",0.
+>>>>>>> Stashed changes
 =======
 - Contra vítima menor de 14 ou maior de 60 anos.","Não houve alucinação de input, pois a resposta está diretamente relacionada à pergunta sobre os agravantes para o homicídio qualificado conforme o artigo do Código Penal, listando os motivos e circunstâncias que configuram tais agravantes.",0.
 >>>>>>> Stashed changes
@@ -116,7 +150,11 @@ São agravantes (motivos ou meios que tornam o crime mais grave):
 - Comportamento adequado;
 - Trabalho compatível com a execução penal;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Autorização judicial.","Explicação: A resposta gerada está diretamente relacionada ao tópico da pergunta, que é sobre as condições para o condenado exercer trabalho externo no regime fechado. Não há divergência do assunto ou introdução de informações irrelevantes, portanto não houve alucinação de input.",0.
+=======
+- Autorização judicial.","A resposta está totalmente alinhada à pergunta sobre as condições para o condenado exercer trabalho externo no regime fechado, atendendo ao tópico solicitado sem desviar do assunto. Portanto, não há alucinação de input.",0 
+>>>>>>> Stashed changes
 =======
 - Autorização judicial.","A resposta está totalmente alinhada à pergunta sobre as condições para o condenado exercer trabalho externo no regime fechado, atendendo ao tópico solicitado sem desviar do assunto. Portanto, não há alucinação de input.",0 
 >>>>>>> Stashed changes
