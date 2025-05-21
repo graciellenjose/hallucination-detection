@@ -1,83 +1,12 @@
 ,question,answer,input_hallucination_reason,has_input_hallucination
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-0,Como o código trata o crime de difamação quando há a eventual prova da verdade?,"No crime de difamação (art. 139 do Código Penal), a prova da verdade da imputação (chamada exceptio veritatis) geralmente não é admitida. Isso porque o bem jurídico protegido é a honra objetiva da pessoa, ou seja, a reputação perante terceiros. Mesmo que o fato difamatório seja verdadeiro, a sua divulgação pode ser considerada lesiva à reputação.
-
-No entanto, o § 3º do artigo 139 traz uma exceção: a prova da verdade é admitida se a imputação se referir a fato de que o ofendido foi processado e absolvido judicialmente. Nesse caso específico, demonstrar a verdade da acusação original pode ser relevante.","A resposta gerada está dentro do tópico da pergunta feita pelo usuário, discutindo o tratamento do crime de difamação no Código Penal e as exceções. A discussão é relevante e não sai do tema original, portanto, não há alucinação de input.",0.
-1,Qual a pena prevista para injúria quando há utilização de elementos referentes à religião ou condição de pessoa idosa ou com deficiência?,"A injúria, prevista no artigo 140 do Código Penal, tem como pena base a detenção de um a seis meses ou multa. No entanto, o § 3º do mesmo artigo estabelece uma qualificadora para a injúria quando utilizada ""elementos referentes a religião ou à condição de pessoa idosa ou com deficiência"".","Não houve alucinação de input porque a resposta está diretamente relacionada ao tópico da pergunta, fornecendo informações sobre a pena prevista para injúria quando há utilização de elementos referentes à religião ou condição de pessoa idosa ou com deficiência.",0.
-2,Quais práticas configuram o crime de falsificação de documento público?,"O artigo 297 do Código Penal tipifica o crime de falsificação de documento público. As principais condutas que o configuram são:
-
-Fabricar integralmente documento público falso.
-Alterar documento público verdadeiro.
-Inserir em documento público verdadeiro declaração falsa ou diversa da que deveria ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante.
-Suprimir ou ocultar, em documento público verdadeiro, qualquer dado ou informação que devia constar.
-Usar qualquer dos documentos falsificados ou alterados, sabendo da falsidade ou alteração.
-Falsificar passaporte, folha de identificação ou documento de viagem, ou deles fazer uso.
-Para a configuração do crime, é essencial a intenção de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante.","A resposta gerada está relacionada ao tópico da pergunta, tratando especificamente do crime de falsificação de documento público e suas configurações legais. Portanto, não há alucinação de input.",0.
-3,Como o Código Penal trata o crime de dano qualificado por violências ou meios cruéis?,"O crime de dano simples está previsto no artigo 163 do Código Penal. O dano se torna qualificado, com pena mais severa, quando ocorre alguma das hipóteses do artigo 163, parágrafo único. A qualificadora de ""violência ou grave ameaça à pessoa"" está prevista no inciso II. Já a qualificadora de ""meio cruel"" não está expressamente mencionada nesse inciso, mas a interpretação jurisprudencial e doutrinária entende que a utilização de meios que causem sofrimento desnecessário e excessivo à vítima, durante a prática do dano, pode qualificar o crime por analogia in malam partem (em desfavor do réu), embora essa interpretação seja mais controversa e menos comum.
-
-É mais comum que a violência ou grave ameaça à pessoa esteja relacionada a outros crimes, como roubo ou extorsão, nos quais o dano ao patrimônio é um meio para a consecução do crime principal.","A resposta não apresentou alucinação de input, pois respondeu diretamente à pergunta feita sobre como o Código Penal trata o crime de dano qualificado por violências ou meios cruéis, discutindo os artigos e interpretações aplicáveis ao tema.",0.
-4,Quais ações constituem o crime de extorsão?,"No Brasil, o crime de extorsão está previsto no artigo 158 do Código Penal e se configura por meio das seguintes ações:
-
-Constranger alguém: Essa é a ação nuclear do crime. O constrangimento significa obrigar, forçar, compelir a vítima a fazer ou deixar de fazer algo contra a sua vontade. Essa coação não precisa ser física; pode ser moral, mediante grave ameaça.
-
-Mediante violência ou grave ameaça: A violência se refere ao emprego de força física contra a vítima. A grave ameaça consiste na promessa de um mal grave e injusto, capaz de intimidar a vítima e viciar sua vontade. Essa ameaça pode ser dirigida à própria vítima ou a pessoas a ela ligadas (familiares, amigos, etc.).
-
-Com o intuito de obter para si ou para outrem indevida vantagem econômica: O objetivo do agente é conseguir um benefício patrimonial ilícito. Essa vantagem pode ser dinheiro, bens, valores, direitos ou qualquer outra coisa que tenha valor econômico. O intuito de obter a vantagem indevida é essencial para caracterizar a extorsão.
-
-A fazer, tolerar que se faça ou deixar de fazer alguma coisa: O constrangimento exercido sobre a vítima visa a um comportamento específico:
-
-Fazer: A vítima é obrigada a praticar um ato, como entregar dinheiro, assinar um documento, etc.
-Tolerar que se faça: A vítima é forçada a permitir que o agente ou terceiro realize alguma ação, como ocupar um imóvel, explorar um negócio, etc.
-Deixar de fazer: A vítima é coagida a não praticar um ato, como denunciar um crime, cobrar uma dívida, etc.","Não houve alucinação de input.
-
-A resposta gerada está relacionada ao tema da pergunta ""Quais ações constituem o crime de extorsão?"", que é um tópico jurídico e legista. A resposta fornece informações precisas sobre as ações que configuram o crime de extorsão no Código Penal Brasileiro, o que está diretamente relacionado ao tema da pergunta.",0.
-5,Como a legislação penal brasileira trata o reingresso de estrangeiro expulsos do país?,"O reingresso de estrangeiro que foi expulso do território nacional é considerado crime, previsto no artigo 338 do Código Penal: ""Reingressar no território nacional estrangeiro que dele foi expulso: Pena - detenção, de um a quatro anos, sem prejuízo da nova expulsão após o cumprimento da pena.""","A resposta gerada está relacionada ao tópico da pergunta feita e não foge do tema da legislação penal brasileira. Portanto, não há alucinação de input.",0.
-6,Quais fatores podem reduzir o prazo de prescrição do crime?,"O Código Penal prevê duas causas gerais de redução do prazo de prescrição (art. 115):
-
-Ser o agente, ao tempo do crime, menor de 21 (vinte e um) anos: A menoridade penal, embora fixada em 18 anos para fins de imputabilidade, ainda influencia na contagem do prazo prescricional, reconhecendo uma menor maturidade do agente à época do delito.
-
-Ser o agente, na data da sentença, maior de 70 (setenta) anos: A senilidade também é considerada um fator que justifica a redução do prazo prescricional, possivelmente em razão da maior dificuldade de persecução penal e da finalidade da pena em relação a uma pessoa idosa.
-
-Nesses dois casos, os prazos de prescrição previstos no artigo 109 do Código Penal são reduzidos pela metade. É importante ressaltar que essas são causas gerais de redução, aplicáveis tanto à prescrição da pretensão punitiva (antes do trânsito em julgado da sentença) quanto à prescrição da pretensão executória (após o trânsito em julgado).","Não há alucinação de input porque a resposta está diretamente relacionada ao tópico da pergunta, que é sobre fatores que podem reduzir o prazo de prescrição do crime. A resposta fornece informações específicas sobre as causas gerais de redução previstas no Código Penal, que estão ligadas à pergunta original.",0.
-7,Como o Código Penal regula o crime de sequestro e quais as penalidades relacionadas?,"O crime de sequestro e cárcere privado está previsto no artigo 148 do Código Penal: ""Privar alguém de sua liberdade, mediante sequestro ou cárcere privado: Pena - reclusão, de um a três anos.""
-
-O tipo penal abrange tanto o sequestro (retenção da vítima em local diverso de sua residência ou habitual) quanto o cárcere privado (confinamento da vítima em um local fechado).
-
-O parágrafo 1º do artigo 148 prevê diversas causas de aumento de pena, elevando a reclusão para dois a oito anos, se:
-
-A vítima for ascendente, descendente, cônjuge ou companheiro do agente ou maior de 60 (sessenta) anos.
-O crime for praticado mediante violência ou grave ameaça.
-O crime durar mais de quinze dias.
-O crime for praticado contra menor de 18 (dezoito) anos.
-O crime for praticado com finalidade libidinosa.
-O parágrafo 2º estabelece uma forma qualificada do crime, com pena de reclusão de dois a oito anos, se resultar à vítima lesão corporal de natureza grave ou morte.","A resposta gerada está diretamente relacionada ao tópico da pergunta feita pelo usuário, portanto não há alucinação de input. A resposta fornece informações precisas sobre o Código Penal e suas penalidades relacionadas ao crime de sequestro, o que é coerente com a pergunta feita.",0.
-8,"Quais as agravantes para o homicídio qualificado, conforme o artigo do Código Penal?","O homicídio qualificado está previsto no artigo 121, § 2º, do Código Penal. As qualificadoras, que tornam o crime mais grave e elevam a pena de reclusão de doze a trinta anos, são:
-
-Inciso I: Mediante paga ou promessa de recompensa, ou por outro motivo torpe.
-Inciso II: Por motivo fútil.
-Inciso III: Com emprego de veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel, ou de que possa resultar perigo comum.
-Inciso IV: À traição, de emboscada, ou mediante dissimulação ou outro recurso que dificulte ou torne impossível a defesa do ofendido.
-Inciso V: Para assegurar a execução, a ocultação, a impunidade ou vantagem de outro crime.
-Inciso VI: Contra a mulher por razões da condição de sexo feminino (feminicídio).
-Inciso VII: Contra autoridade ou agente descrito nos arts. 142 e 144 da Constituição Federal, integrantes do sistema prisional e da Força Nacional de Segurança Pública, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente consanguíneo até o terceiro grau, em razão dessa condição.
-Inciso VIII: Contra pessoa menor de 14 (quatorze) anos.
-É importante notar que essas são as qualificadoras expressamente previstas no artigo 121, § 2º. A incidência de uma dessas qualificadoras torna o homicídio um crime hediondo, com consequências processuais e penais mais severas.","Não houve alucinação de input. A resposta gerada é relevante e relacionada ao tópico da pergunta, fornecendo informações precisas sobre as agravantes para o homicídio qualificado, como previsto no Código Penal.",0.
-9,Em que condições o condenado poderá exercer trabalho externo no regime fechado?,"A Lei de Execução Penal (Lei nº 7.210/84) estabelece que, em regra, o trabalho externo não é admitido para condenados em regime fechado (art. 36, § 1º).
-
-No entanto, o artigo 37 da LEP traz uma exceção: o trabalho externo poderá ser autorizado a presos em regime fechado somente em serviços ou obras públicas, mediante cautelas contra a fuga e em obediência a determinados requisitos, como aptidão, disciplina e responsabilidade.","Não houve alucinação de input.
-
-A resposta gerada está diretamente relacionada ao tópico da pergunta feita (""Em que condições o condenado poderá exercer trabalho externo no regime fechado?""), apresentando informações relevantes e precisas sobre a Lei de Execução Penal (Lei nº 7.210/84) e seus artigos. A resposta não foge do tópico da pergunta, portanto, não há alucinação de input.",0.
-=======
-=======
->>>>>>> Stashed changes
 0,Como o código trata o crime de difamação quando há a eventual prova da verdade?,"O crime de difamação (art. 139, CP) consiste em atribuir a alguém fato ofensivo à sua reputação.
 
 Prova da verdade: Se o acusado provar a veracidade do fato difamatório, a conduta será atípica (não constitui crime), exceto se:
 
 O fato se referir à vida privada da vítima;
 
-A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","A resposta gerada não apresenta alucinação de input porque está diretamente relacionada ao tema da pergunta sobre o tratamento do crime de difamação no código penal, não apresentando informações deslocadas ou irrelevantes para a pergunta original.",0.
+A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","Explainação: A resposta gerada está diretamente relacionada ao tópico da pergunta feita pelo usuário (""Como o código trata o crime de difamação quando há a eventual prova da verdade?""), discutindo detalhes do art. 139 e art. 140 do Código Penal brasileiro, sem sair do tema ou apresentar informações irrelevantes ou desligadas do contexto.","0
+"
 1,Qual a pena prevista para injúria quando há utilização de elementos referentes à religião ou condição de pessoa idosa ou com deficiência?,"A injúria (art. 140, CP) é ofender a dignidade de alguém.
 
 Qualificadora: 
@@ -86,7 +15,7 @@ Se a injúria utilizar elementos referentes a:
 - Condição de pessoa idosa (60+ anos);
 - Pessoa com deficiência.
 
-Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).","A resposta gerada está diretamente relacionada ao tema da pergunta feita e não apresenta alucinação de input. A resposta fornece informações precisas sobre a pena prevista para injúria quando há utilização de elementos referentes à religião, condição de pessoa idosa ou com deficiência, o que é coerente com a pergunta inicial.",0.
+Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).","A resposta não apresentou alucinação de input, pois está diretamente relacionada ao tópico da pergunta e fornece informações precisas sobre a pena prevista para injúria quando há utilização de elementos referentes à religião ou condição de pessoa idosa ou com deficiência.",0.
 2,Quais práticas configuram o crime de falsificação de documento público?,"art. 297, CP
 
 Configura-se quando alguém:
@@ -94,13 +23,13 @@ Configura-se quando alguém:
 - Usa documento público falso sabendo que é falso;
 - Omite declaração que deveria constar em documento público.
 
-Pena: Reclusão de 2 a 6 anos + multa","A resposta gerada está diretamente relacionada ao conteúdo da pergunta e não apresenta nenhuma alucinação de input, pois tratam do mesmo tópico (crimes e penas).",0.
+Pena: Reclusão de 2 a 6 anos + multa","A resposta não apresentou alucinação de input, pois respondeu à pergunta original sobre as práticas que configuram o crime de falsificação de documento público e forneceu informações relevantes sobre a matéria.",0.
 3,Como o Código Penal trata o crime de dano qualificado por violências ou meios cruéis?,"O crime de dano (art. 163, CP) torna-se qualificado se cometido:
 
 - Com violência (contra pessoa ou coisa);
 - Com meios cruéis (causando sofrimento desnecessário).
 
-Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","A resposta fornece informações precisas e relevantes sobre o crime de dano qualificado por violências ou meios cruéis, que é o tópico da pergunta. Não há divergência em relação ao assunto, portanto, não houve alucinação de input.",0.
+Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","A resposta gerada está diretamente relacionada ao tópico da pergunta feita, fornecendo informações precisas sobre o crime de dano qualificado por violências ou meios cruéis no Código Penal. A resposta não foge do tema e não apresenta nenhum conteúdo irrelevante ou descolado. Portanto, não há alucinação de input.",0.
 4,Quais ações constituem o crime de extorsão?,"O crime de extorsão está previsto no artigo 158 do Código Penal Brasileiro e consiste em obter vantagem econômica ou qualquer outro benefício ilegítimo mediante violência, grave ameaça ou depois de reduzir a vítima à impossibilidade de resistência.
 
 Elementos que configuram a extorsão (art. 158, CP)
@@ -115,14 +44,16 @@ Conduta do agente:
 - Crimes de Perigo Resultante
 - Afetam indivíduos específicos, mas o perigo é elemento do crime (ex.: dirigir embriagado – art. 306, CTB).
 - Bem jurídico: vida/integridade de pessoa(s) determinada(s).
-","A resposta gerada está diretamente relacionada ao tópico da pergunta feita (""Quais ações constituem o crime de extorsão?""), apresentando informações legais e jurídicas sobre o tema. Não há saída do tema ou referência à outro assunto, portanto, não há alucinação de input.",0.
+","A resposta gerada está diretamente relacionada ao tema da pergunta e não apresenta qualquer desvio ou conexão irrelevante com o tópico. A discussão sobre os elementos que configuram o crime de extorsão é uma resposta adequada e precisa à pergunta inicial. Portanto, não há alucinação de input.",0.
 5,Como a legislação penal brasileira trata o reingresso de estrangeiro expulsos do país?,"É crime reingressar no Brasil após expulsão, sem autorização.
-Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","A resposta gerada está direcionada ao tópico da pergunta, fornecendo informações sobre a legislação penal brasileira e como ela trata o reingresso de estrangeiro expulsos do país. A resposta não foge do tópico e nem apresenta informações irrelevantes ou desvinculadas da pergunta.",0.
+Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","Não houve alucinação de input. A resposta gerada está relacionada ao tópico da pergunta feita, tratando especificamente sobre a legislação penal brasileira e o reingresso de estrangeiro expulsos do país. A resposta não foge do contexto da pergunta e fornece informações precisas sobre o tema.",0.
 6,Quais fatores podem reduzir o prazo de prescrição do crime?,"O prazo prescricional pode ser reduzido se:
 
 O agente for réu primário (não tem condenações anteriores);
 O crime for de menor potencial ofensivo (Lei nº 9.099/95);
-Houver circunstâncias atenuantes (art. 110, CP).","A resposta gerada está diretamente relacionada ao tópico da pergunta feita (""Quais fatores podem reduzir o prazo de prescrição do crime?""), apresentando informações precisas e relevantes sobre os fatores que podem influenciar no prazo de prescrição. Não há saída do tópico ou mudança de assunto, portanto, não há alucinação de input.",0.
+Houver circunstâncias atenuantes (art. 110, CP).","Não houve alucinação de input.
+
+A pergunta original era ""Quais fatores podem reduzir o prazo de prescrição do crime?"" e a resposta fornecida foi exatamente sobre os fatores que reduzem o prazo de prescrição do crime, não fogeu do tópico da pergunta feita.",0.
 7,Como o Código Penal regula o crime de sequestro e quais as penalidades relacionadas?,"Sequestro (art. 148, CP)
 
 Definição: Privar alguém de sua liberdade por meio de:
@@ -135,7 +66,7 @@ Pena: Reclusão de 1 a 3 anos (se não houver agravantes).
 - Agravantes (aumentam a pena):
 - Sequestro por mais de 24h;
 - Vítima menor de 18 anos ou idosa;
-- Extorsão como motivação.","A resposta gerada não apresenta alucinação de input, pois está dentro do tópico da pergunta inicial (""Como o Código Penal regula o crime de sequestro e quais as penalidades relacionadas?""), fornecendo informações relevantes sobre a definição e pena para o crime de sequestro.",0.
+- Extorsão como motivação.","Esta resposta está dentro do tópico da pergunta feita, fornecendo informações sobre o crime de sequestro e as penalidades relacionadas no Código Penal. Não há alucinação de input.",0.
 8,"Quais as agravantes para o homicídio qualificado, conforme o artigo do Código Penal?","Homicídio qualificado (art. 121, §2º, CP)
 
 São agravantes (motivos ou meios que tornam o crime mais grave):
@@ -144,13 +75,11 @@ São agravantes (motivos ou meios que tornam o crime mais grave):
 - Meios cruéis (sofrimento desnecessário);
 - Emboscada (lugar oculto);
 - Incêndio, explosivo ou veneno;
-- Contra vítima menor de 14 ou maior de 60 anos.","A resposta gerada não apresenta alucinação de input porque responde diretamente à pergunta feita sobre as agravantes para o homicídio qualificado, conforme o artigo do Código Penal. A resposta está relacionada ao tópico da pergunta e não foge do assunto.",0.
+- Contra vítima menor de 14 ou maior de 60 anos.","Não há alucinação de input. A resposta gerada é relevante ao tópico da pergunta feita, fornecendo informações sobre agravantes para homicídio qualificado, que é o assunto principal da pergunta.",0.
 9,Em que condições o condenado poderá exercer trabalho externo no regime fechado?,"O condenado em regime fechado pode trabalhar externamente se:
 - Cumpre 1/6 da pena (se primário) ou 1/4 (se reincidente);
 - Comportamento adequado;
 - Trabalho compatível com a execução penal;
-- Autorização judicial.","A resposta gerada é relevante e está relacionada ao tópico da pergunta, tratando sobre as condições para o condenado exercer trabalho externo no regime fechado. Ela não fogiu do contexto da pergunta e forneceu informações precisas e relevantes sobre o assunto.",0.
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+- Autorização judicial.","Não houve alucinação de input.
+
+A resposta fornecida está diretamente relacionada ao tópico da pergunta, que é sobre as condições para que um condenado possa exercer trabalho externo no regime fechado. A resposta fornece informações precisas e relevantes sobre a temática, não fugindo do tópico da pergunta.",0.
