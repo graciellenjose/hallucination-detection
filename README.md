@@ -5,4 +5,4 @@
 - [ ] Detecção de alucinações contextuais
 - [ ] Detecção de alucinações factuais
     - [ ] Retrieval-Augmented Generation (RAG) para o livro do Código Penal
-- [ ] Refatoração do código
+- [x] Refatoração do código
