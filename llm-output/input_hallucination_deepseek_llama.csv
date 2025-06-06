@@ -1,11 +1,11 @@
-,id,question,answer,factual_hallucination_reason,has_factual_hallucination
+,id,question,answer,input_hallucination_reason,has_input_hallucination
 0,1,Como o código trata o crime de difamação quando há a eventual prova da verdade?,"O crime de difamação (art. 139, CP) consiste em atribuir a alguém fato ofensivo à sua reputação.
 
 Prova da verdade: Se o acusado provar a veracidade do fato difamatório, a conduta será atípica (não constitui crime), exceto se:
 
 O fato se referir à vida privada da vítima;
 
-A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","A resposta parece ser uma descrição correta do artigo 139 e 140 do Código Penal Brasileiro (CP) sobre o crime de difamação, incluindo a situação em que há prova da verdade. Não há informações falsas na resposta, portanto não há alucinação factual.",0.
+A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","A resposta não apresenta nenhuma alucinação de input, pois está diretamente relacionada à pergunta feita sobre o tratamento do crime de difamação quando há prova da verdade. A resposta fornece informações precisas e relevantes sobre o tema, sem sair do tópico principal.",0.
 1,2,Qual a pena prevista para injúria quando há utilização de elementos referentes à religião ou condição de pessoa idosa ou com deficiência?,"A injúria (art. 140, CP) é ofender a dignidade de alguém.
 
 Qualificadora: 
@@ -14,8 +14,7 @@ Se a injúria utilizar elementos referentes a:
 - Condição de pessoa idosa (60+ anos);
 - Pessoa com deficiência.
 
-Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).","A resposta fornecida é uma descrição correta da lei brasileira e não apresenta informações falsas ou inconsistentes. Portanto, não há alucinação factual nessa resposta.","0
-"
+Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).",Esta resposta não apresenta alucinação de input porque está direcionada à pergunta feita sobre a pena prevista para injúria e utiliza informações legais relevantes ao tópico. A resposta permanece dentro do escopo da pergunta e não apresenta nenhuma informação irrelevante ou que foge do assunto.,0.
 2,3,Quais práticas configuram o crime de falsificação de documento público?,"art. 297, CP
 
 Configura-se quando alguém:
@@ -23,14 +22,13 @@ Configura-se quando alguém:
 - Usa documento público falso sabendo que é falso;
 - Omite declaração que deveria constar em documento público.
 
-Pena: Reclusão de 2 a 6 anos + multa","A resposta fornecida parece ser factual e correta, uma vez que a Lei nº 3.627/01, no Brasil, estabelece as condições para o crime de falsificação de documento público, como descrito na resposta. Portanto, não há alucinação factual.","0
-"
+Pena: Reclusão de 2 a 6 anos + multa","A resposta gerada não apresenta alucinação de input, pois está diretamente relacionada ao tema da pergunta e não apresenta informações que fogem do tópico. A resposta fornece informações sobre o crime de falsificação de documento público, configurando-se como uma explicação clara e precisa para a pergunta feita.",0.
 3,4,Como o Código Penal trata o crime de dano qualificado por violências ou meios cruéis?,"O crime de dano (art. 163, CP) torna-se qualificado se cometido:
 
 - Com violência (contra pessoa ou coisa);
 - Com meios cruéis (causando sofrimento desnecessário).
 
-Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","A resposta fornecida é uma reprodução exata do artigo 163 do Código Penal Brasileiro e não apresenta nenhuma informação falsa ou incompatível com a realidade. Portanto, não há alucinação factual.",0.
+Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","A resposta gerada é relevante e está diretamente relacionada à pergunta feita sobre como o Código Penal trata o crime de dano qualificado por violências ou meios cruéis. Não há desvio do tópico da pergunta, portanto não há alucinação de input.",0.
 4,5,Quais ações constituem o crime de extorsão?,"O crime de extorsão está previsto no artigo 158 do Código Penal Brasileiro e consiste em obter vantagem econômica ou qualquer outro benefício ilegítimo mediante violência, grave ameaça ou depois de reduzir a vítima à impossibilidade de resistência.
 
 Elementos que configuram a extorsão (art. 158, CP)
@@ -45,14 +43,14 @@ Conduta do agente:
 - Crimes de Perigo Resultante
 - Afetam indivíduos específicos, mas o perigo é elemento do crime (ex.: dirigir embriagado – art. 306, CTB).
 - Bem jurídico: vida/integridade de pessoa(s) determinada(s).
-","A resposta fornecida é uma descrição precisa e factual sobre o crime de extorsão previsto no artigo 158 do Código Penal Brasileiro. Não há informações falsas ou alucinatórias na resposta, portanto não houve alucinação de input.",0.
+","A resposta gerada se refere ao tema da pergunta e não apresenta uma saída do tópico. Ela fornece informações precisas sobre o crime de extorsão, seus elementos constitutivos e conceitos legais relacionados. A resposta não apresenta nenhuma conexão com outro tópico ou temática que não seja a pergunta original.",0.
 5,6,Como a legislação penal brasileira trata o reingresso de estrangeiro expulsos do país?,"É crime reingressar no Brasil após expulsão, sem autorização.
-Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","A razão é que a resposta apresentada está correta e baseada em informações factuais. A lei penal brasileira prevê, efetivamente, a punição para estrangeiros que reingressam no país após expulsão sem autorização, com pena de reclusão de 1 a 4 anos (além da nova expulsão).",0.
+Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","Não há alucinação de input porque a resposta está relacionada ao tópico da pergunta feita, tratando sobre a legislação penal brasileira e o reingresso de estrangeiro expulsos do país. A resposta não foge do contexto da pergunta e fornece informações relevantes e precisas sobre o tema abordado.",0.
 6,7,Quais fatores podem reduzir o prazo de prescrição do crime?,"O prazo prescricional pode ser reduzido se:
 
 O agente for réu primário (não tem condenações anteriores);
 O crime for de menor potencial ofensivo (Lei nº 9.099/95);
-Houver circunstâncias atenuantes (art. 110, CP).","A resposta fornecida é uma descrição correta dos fatores que podem reduzir o prazo de prescrição do crime, segundo a legislação brasileira. Não há informação falsa ou alucinação factual na resposta. Portanto, não há necessidade de marcar como ""1"" (alucinação factual).",0.
+Houver circunstâncias atenuantes (art. 110, CP).","A resposta gerada não apresenta alucinação de input pois está diretamente relacionada ao tópico da pergunta feita (""Quais fatores podem reduzir o prazo de prescrição do crime?""), fornecendo informações relevantes e precisas sobre o assunto.",0.
 7,8,Como o Código Penal regula o crime de sequestro e quais as penalidades relacionadas?,"Sequestro (art. 148, CP)
 
 Definição: Privar alguém de sua liberdade por meio de:
@@ -65,7 +63,7 @@ Pena: Reclusão de 1 a 3 anos (se não houver agravantes).
 - Agravantes (aumentam a pena):
 - Sequestro por mais de 24h;
 - Vítima menor de 18 anos ou idosa;
-- Extorsão como motivação.","A resposta fornecida é uma informação factual e correta sobre o crime de sequestro no Código Penal Brasileiro. A definição e as penalidades descritas estão em conformidade com a lei brasileira, portanto, não há alucinação factual.",0.
+- Extorsão como motivação.","Não houve alucinação de input, pois a resposta foi direta e relacionada ao questionamento sobre o Código Penal e o crime de sequestro. A resposta apresentou informações precisas e relevantes sobre a definição do crime de sequestro e as penalidades associadas, não fugindo do tópico da pergunta feita.",0.
 8,9,"Quais as agravantes para o homicídio qualificado, conforme o artigo do Código Penal?","Homicídio qualificado (art. 121, §2º, CP)
 
 São agravantes (motivos ou meios que tornam o crime mais grave):
@@ -74,9 +72,9 @@ São agravantes (motivos ou meios que tornam o crime mais grave):
 - Meios cruéis (sofrimento desnecessário);
 - Emboscada (lugar oculto);
 - Incêndio, explosivo ou veneno;
-- Contra vítima menor de 14 ou maior de 60 anos.","A resposta fornecida é uma descrição correta do artigo do Código Penal brasileiro que trata do homicídio qualificado, portanto não há alucinação factual. A informação apresentada está de acordo com a legislação vigente no Brasil.",0.
+- Contra vítima menor de 14 ou maior de 60 anos.","A resposta não apresenta alucinação de input porque está relacionada ao tópico da pergunta, que é sobre agravantes para o homicídio qualificado no Código Penal Brasileiro. A resposta fornece informações relevantes e úteis para a pergunta feita.",0.
 9,10,Em que condições o condenado poderá exercer trabalho externo no regime fechado?,"O condenado em regime fechado pode trabalhar externamente se:
 - Cumpre 1/6 da pena (se primário) ou 1/4 (se reincidente);
 - Comportamento adequado;
 - Trabalho compatível com a execução penal;
-- Autorização judicial.","A resposta fornecida é coerente e fidedigna, não há informação falsa ou inexata. Portanto, não há alucinação factual na resposta.",0.
+- Autorização judicial.","A resposta não foge do tópico da pergunta feita, trata-se de uma resposta técnica e objetiva sobre as condições para que um condenado em regime fechado possa exercer trabalho externo, mantendo o relacionamento com a pergunta original.",0.

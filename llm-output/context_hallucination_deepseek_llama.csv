@@ -1,11 +1,13 @@
-,id,question,answer,input_hallucination_reason,has_input_hallucination
+,id,question,answer,context_hallucination_reason,has_context_hallucination
 0,1,Como o código trata o crime de difamação quando há a eventual prova da verdade?,"O crime de difamação (art. 139, CP) consiste em atribuir a alguém fato ofensivo à sua reputação.
 
 Prova da verdade: Se o acusado provar a veracidade do fato difamatório, a conduta será atípica (não constitui crime), exceto se:
 
 O fato se referir à vida privada da vítima;
 
-A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","A resposta está diretamente relacionada à pergunta sobre como o código trata o crime de difamação em caso de prova da verdade, explicando claramente as condições previstas no artigo 139 do Código Penal e exceções conforme o artigo 140, §1º. Portanto, não houve alucinação de input.",0 
+A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","Não há alucinação contextual.
+
+Explicação: O texto se refere a um tema específico sobre crime e direito, e a explicação apresentada é lógica e consistente com o contexto. Nenhuma contradição ou incoerência foi encontrada entre as informações apresentadas.",0
 1,2,Qual a pena prevista para injúria quando há utilização de elementos referentes à religião ou condição de pessoa idosa ou com deficiência?,"A injúria (art. 140, CP) é ofender a dignidade de alguém.
 
 Qualificadora: 
@@ -14,7 +16,7 @@ Se a injúria utilizar elementos referentes a:
 - Condição de pessoa idosa (60+ anos);
 - Pessoa com deficiência.
 
-Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).","A resposta está estritamente relacionada à pergunta sobre a pena prevista para injúria com elementos relativos à religião, idade ou deficiência, detalhando corretamente a definição, qualificadoras e a pena prevista no Código Penal. Portanto, não há alucinação de input.",0 
+Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).","A justificativa para não haver alucinação contextual é que o texto descreve leis e penalidades relacionadas à injúria, sem apresentar contradições entre as informações.",0
 2,3,Quais práticas configuram o crime de falsificação de documento público?,"art. 297, CP
 
 Configura-se quando alguém:
@@ -22,13 +24,15 @@ Configura-se quando alguém:
 - Usa documento público falso sabendo que é falso;
 - Omite declaração que deveria constar em documento público.
 
-Pena: Reclusão de 2 a 6 anos + multa","Não houve alucinação de input, pois a resposta está diretamente relacionada à pergunta sobre as práticas que configuram o crime de falsificação de documento público, apresentando o artigo do Código Penal, as ações que caracterizam o crime e a pena aplicada, permanecendo dentro do tema solicitado.",0.
+Pena: Reclusão de 2 a 6 anos + multa","Não houve alucinação contextual.
+
+A explicação é que o texto apresenta apenas uma descrição legal, sem qualquer conexão com informações previas ou posteriores, nem contexto que possa ser considerado contraditório. O texto apresenta informações sobre um crime e sua pena, não há alucinação contextual.",0
 3,4,Como o Código Penal trata o crime de dano qualificado por violências ou meios cruéis?,"O crime de dano (art. 163, CP) torna-se qualificado se cometido:
 
 - Com violência (contra pessoa ou coisa);
 - Com meios cruéis (causando sofrimento desnecessário).
 
-Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","Não houve alucinação de input porque a resposta está dentro do tópico da pergunta, explicando corretamente como o Código Penal trata o crime de dano qualificado por violências ou meios cruéis, conforme solicitado.",0.
+Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","A resposta não apresenta contradição ou falta de conexão entre os assuntos. O texto trata sobre o crime de dano e suas consequências legais, sem apresentar qualquer tipo de alucinação contextual.",0
 4,5,Quais ações constituem o crime de extorsão?,"O crime de extorsão está previsto no artigo 158 do Código Penal Brasileiro e consiste em obter vantagem econômica ou qualquer outro benefício ilegítimo mediante violência, grave ameaça ou depois de reduzir a vítima à impossibilidade de resistência.
 
 Elementos que configuram a extorsão (art. 158, CP)
@@ -43,14 +47,18 @@ Conduta do agente:
 - Crimes de Perigo Resultante
 - Afetam indivíduos específicos, mas o perigo é elemento do crime (ex.: dirigir embriagado – art. 306, CTB).
 - Bem jurídico: vida/integridade de pessoa(s) determinada(s).
-","Não houve alucinação de input porque a resposta está diretamente relacionada à pergunta feita sobre as ações que constituem o crime de extorsão, detalhando os elementos legais e características específicas do crime conforme previsto no Código Penal Brasileiro.",0.
+","Explicação: O texto apresenta uma descrição do crime de extorsão e suas características, mas não há conexão entre o conteúdo e outro assunto, portanto, não há alucinação contextual.",0
 5,6,Como a legislação penal brasileira trata o reingresso de estrangeiro expulsos do país?,"É crime reingressar no Brasil após expulsão, sem autorização.
-Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","Não houve alucinação de input, pois a resposta está diretamente relacionada à pergunta feita sobre o tratamento legal do reingresso de estrangeiros expulsos do país, fornecendo informações claras sobre a tipificação do crime e a pena prevista.",0.
+Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","Não há alucinação contextual.
+
+Explicação: O texto apresenta informações sobre o crime e a pena em um contexto específico, sem apresentar nenhuma contradição ou conexão inapropriada entre os assuntos.",0
 6,7,Quais fatores podem reduzir o prazo de prescrição do crime?,"O prazo prescricional pode ser reduzido se:
 
 O agente for réu primário (não tem condenações anteriores);
 O crime for de menor potencial ofensivo (Lei nº 9.099/95);
-Houver circunstâncias atenuantes (art. 110, CP).","Não houve alucinação de input, pois a resposta está diretamente relacionada ao tema da pergunta, que trata dos fatores que podem reduzir o prazo de prescrição do crime. A resposta apresenta informações pertinentes e específicas sobre condições que influenciam esse prazo, mantendo-se no tópico solicitado.",0.
+Houver circunstâncias atenuantes (art. 110, CP).","Não houve alucinação contextual.
+
+A justificativa para essa resposta é que as condições mencionadas (""O agente for réu primário"", ""O crime for de menor potencial ofensivo"" e ""Houver circunstâncias atenuantes"") são independentes entre si e não apresentam contradições lógicas ou absurdas, portanto não há alucinação contextual.",0
 7,8,Como o Código Penal regula o crime de sequestro e quais as penalidades relacionadas?,"Sequestro (art. 148, CP)
 
 Definição: Privar alguém de sua liberdade por meio de:
@@ -63,7 +71,9 @@ Pena: Reclusão de 1 a 3 anos (se não houver agravantes).
 - Agravantes (aumentam a pena):
 - Sequestro por mais de 24h;
 - Vítima menor de 18 anos ou idosa;
-- Extorsão como motivação.","A resposta está estritamente relacionada ao tópico da pergunta, pois detalha como o Código Penal regula o crime de sequestro, apresentando definição e penalidades, incluindo agravantes. Portanto, não houve alucinação de input.",0 
+- Extorsão como motivação.","Não houve alucinação contextual.
+
+A explicação é que o texto apresenta uma definição e descrição de um crime (sequestro) juntamente com sua pena e agravantes, sem que haja nenhuma contradição ou incongruência entre as informações apresentadas.",0
 8,9,"Quais as agravantes para o homicídio qualificado, conforme o artigo do Código Penal?","Homicídio qualificado (art. 121, §2º, CP)
 
 São agravantes (motivos ou meios que tornam o crime mais grave):
@@ -72,9 +82,13 @@ São agravantes (motivos ou meios que tornam o crime mais grave):
 - Meios cruéis (sofrimento desnecessário);
 - Emboscada (lugar oculto);
 - Incêndio, explosivo ou veneno;
-- Contra vítima menor de 14 ou maior de 60 anos.","Não houve alucinação de input porque a resposta está diretamente relacionada à pergunta feita sobre os agravantes para o homicídio qualificado conforme o artigo do Código Penal, listando corretamente os motivos e circunstâncias que qualificam o crime.",0.
+- Contra vítima menor de 14 ou maior de 60 anos.","Não há alucinação contextual.
+
+A resposta não apresenta contradições entre as informações fornecidas. O texto lista agravantes para o crime de homicídio qualificado, e cada item é uma descrição específica e lógica do que torna um crime mais grave. Nenhum dos itens contradiz os outros ou apresenta uma incongruência lógica.",0
 9,10,Em que condições o condenado poderá exercer trabalho externo no regime fechado?,"O condenado em regime fechado pode trabalhar externamente se:
 - Cumpre 1/6 da pena (se primário) ou 1/4 (se reincidente);
 - Comportamento adequado;
 - Trabalho compatível com a execução penal;
-- Autorização judicial.","Não houve alucinação de input porque a resposta está diretamente relacionada à pergunta sobre as condições para o condenado exercer trabalho externo no regime fechado, fornecendo os critérios legais e específicos para essa situação.",0.
+- Autorização judicial.","Não houve alucinação contextual.
+
+A razão pela qual não há alucinação contextual é que os pontos apresentados são condições lógicas e sequenciadas para que o condenado em regime fechado possa trabalhar externamente, sem contradições ou falhas de lógica.",0

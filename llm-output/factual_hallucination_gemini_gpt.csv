@@ -1,0 +1,84 @@
+,id,question,answer,factual_hallucination_reason,has_factual_hallucination
+0,1,Como o código trata o crime de difamação quando há a eventual prova da verdade?,"O crime de difamação (art. 139, CP) consiste em atribuir a alguém fato ofensivo à sua reputação.
+
+Prova da verdade: Se o acusado provar a veracidade do fato difamatório, a conduta será atípica (não constitui crime), exceto se:
+
+O fato se referir à vida privada da vítima;
+
+A divulgação for desnecessária ou motivada por malícia (art. 140, §1º, CP).","Não houve alucinação factual, pois a resposta está correta ao definir o crime de difamação conforme o artigo 139 do Código Penal brasileiro e apresenta corretamente as exceções relacionadas à prova da veracidade do fato, em conformidade com o artigo 140, §1º, do mesmo código.",0.
+1,2,Qual a pena prevista para injúria quando há utilização de elementos referentes à religião ou condição de pessoa idosa ou com deficiência?,"A injúria (art. 140, CP) é ofender a dignidade de alguém.
+
+Qualificadora: 
+Se a injúria utilizar elementos referentes a:
+- Religião;
+- Condição de pessoa idosa (60+ anos);
+- Pessoa com deficiência.
+
+Pena: Reclusão de 1 a 3 anos + multa (art. 140, §3º, CP).","Houve alucinação factual porque a pena qualificada da injúria mencionada (reclusão de 1 a 3 anos + multa) está incorreta. A pena para a injúria simples é detenção de 1 a 6 meses ou multa (art. 140, caput, CP), e as qualificadoras do art. 140, §3º, preveem detenção, não reclusão, para os casos que envolvem ofensa à religião, à pessoa idosa ou pessoa com deficiência. Portanto, a informação sobre a ""reclusão de 1 a 3 anos"" está errada.",1.
+2,3,Quais práticas configuram o crime de falsificação de documento público?,"art. 297, CP
+
+Configura-se quando alguém:
+- Falsifica (altera, fabrica ou modifica) documento público;
+- Usa documento público falso sabendo que é falso;
+- Omite declaração que deveria constar em documento público.
+
+Pena: Reclusão de 2 a 6 anos + multa","Houve alucinação factual porque o trecho apresentado no contexto trata de pena de detenção de um a três meses ou multa, provavelmente relacionada a outro crime. A pena de reclusão de 2 a 6 anos mais multa, mencionada na resposta, está incorreta para o artigo 297 do Código Penal, que trata de falsidade ideológica. Portanto, a informação sobre a pena está incorreta, configurando alucinação factual.",1 
+3,4,Como o Código Penal trata o crime de dano qualificado por violências ou meios cruéis?,"O crime de dano (art. 163, CP) torna-se qualificado se cometido:
+
+- Com violência (contra pessoa ou coisa);
+- Com meios cruéis (causando sofrimento desnecessário).
+
+Pena: Reclusão de 1 a 4 anos + multa (art. 163, §1º, CP).","A resposta apresenta alucinação factual porque o crime de dano qualificado não está previsto nos termos indicados, e o art. 163 do Código Penal não dispõe de qualificadoras referentes a violência contra pessoa ou coisa ou meios cruéis. Além disso, a pena mencionada (reclusão de 1 a 4 anos + multa) é incorreta para o crime de dano qualificado, já que o artigo 163 prevê detenção, geralmente de 1 a 6 meses ou multa, e não reclusão. Portanto, a informação sobre a qualificação e a pena está incorreta.",1 
+4,5,Quais ações constituem o crime de extorsão?,"O crime de extorsão está previsto no artigo 158 do Código Penal Brasileiro e consiste em obter vantagem econômica ou qualquer outro benefício ilegítimo mediante violência, grave ameaça ou depois de reduzir a vítima à impossibilidade de resistência.
+
+Elementos que configuram a extorsão (art. 158, CP)
+Conduta do agente:
+- Exigir vantagem indevida (dinheiro, bens, serviços, assinatura de documento, etc.);
+- Utilizar meios coercitivos:
+- Violência (física ou psicológica);
+- Grave ameaça (promessa de mal futuro e inevitável, como morte, sequestro, destruição de patrimônio);
+- Reduzir a vítima à impossibilidade de resistir (ex.: dopagem, embriaguez forçada).
+- Finalidade: Obter proveito econômico ou benefício ilegítimo para si ou para outrem.Afetam coletividade indeterminada (ex.: incêndio, explosão – art. 250, CP).       
+- Bem jurídico: segurança coletiva.
+- Crimes de Perigo Resultante
+- Afetam indivíduos específicos, mas o perigo é elemento do crime (ex.: dirigir embriagado – art. 306, CTB).
+- Bem jurídico: vida/integridade de pessoa(s) determinada(s).
+","Não houve alucinação factual na resposta. O artigo 158 do Código Penal Brasileiro realmente trata do crime de extorsão, que consiste em obter vantagem econômica ou outro benefício ilegítimo mediante violência, grave ameaça ou após reduzir a vítima à impossibilidade de resistência. Os elementos descritos na resposta estão de acordo com a tipificação legal desse crime. Os complementos sobre os bens jurídicos e exemplos citados correspondem corretamente à doutrina penal brasileira.",0.
+5,6,Como a legislação penal brasileira trata o reingresso de estrangeiro expulsos do país?,"É crime reingressar no Brasil após expulsão, sem autorização.
+Pena: Reclusão de 1 a 4 anos (além de nova expulsão).","Houve alucinação factual porque a resposta indica que a pena para reingressar no Brasil após expulsão é reclusão de 1 a 4 anos, além de nova expulsão, mas o trecho do documento fornecido informa que a pena é detenção de um a três meses ou multa, não reclusão. Portanto, há uma informação falsa na resposta.",1.
+6,7,Quais fatores podem reduzir o prazo de prescrição do crime?,"O prazo prescricional pode ser reduzido se:
+
+O agente for réu primário (não tem condenações anteriores);
+O crime for de menor potencial ofensivo (Lei nº 9.099/95);
+Houver circunstâncias atenuantes (art. 110, CP).","A resposta está correta ao afirmar que o prazo prescricional pode ser influenciado por fatores como ser réu primário, crimes de menor potencial ofensivo e a existência de circunstâncias atenuantes, conforme previsto na legislação brasileira. Portanto, não há informação falsa na resposta.",0 
+7,8,Como o Código Penal regula o crime de sequestro e quais as penalidades relacionadas?,"Sequestro (art. 148, CP)
+
+Definição: Privar alguém de sua liberdade por meio de:
+- Violência;
+- Ameaça;
+- Fraude.
+
+Pena: Reclusão de 1 a 3 anos (se não houver agravantes).
+
+- Agravantes (aumentam a pena):
+- Sequestro por mais de 24h;
+- Vítima menor de 18 anos ou idosa;
+- Extorsão como motivação.","Houve alucinação factual na resposta porque o artigo 148 do Código Penal brasileiro trata de ""Sequestro Relâmpago"", cuja pena prevista é de reclusão de 1 a 3 anos, conforme apresentado, mas a definição e os agravantes indicados na resposta estão incorretos ou imprecisos.
+
+No Código Penal, o artigo 148 define o sequestro ou cárcere privado como ""Privar alguém de sua liberdade"" sem especificar necessariamente os meios (violência, ameaça ou fraude) como elementos essenciais. Além disso, os agravantes citados estão mais relacionados a outros tipos penais ou artigos distintos, e o ""sequestro por mais de 24h"" não é uma agravante formal prevista no artigo 148, mas sim em artigo separado ou qualificações diferentes.
+
+Portanto, a resposta contém informações factualmente incorretas ou imprecisas, configurando alucinação factual.",1.
+8,9,"Quais as agravantes para o homicídio qualificado, conforme o artigo do Código Penal?","Homicídio qualificado (art. 121, §2º, CP)
+
+São agravantes (motivos ou meios que tornam o crime mais grave):
+- Motivo torpe (futilidade, ganho financeiro);
+- Motivo fútil (banal);
+- Meios cruéis (sofrimento desnecessário);
+- Emboscada (lugar oculto);
+- Incêndio, explosivo ou veneno;
+- Contra vítima menor de 14 ou maior de 60 anos.","Não há alucinação factual na resposta, pois os agravantes mencionados para o homicídio qualificado estão corretos conforme o artigo 121, §2º, do Código Penal brasileiro. Os exemplos de motivos e circunstâncias que tornam o crime mais grave, como motivo torpe, motivo fútil, meios cruéis, emboscada, uso de incêndio, explosivo ou veneno, e a condição da vítima (menor de 14 ou maior de 60 anos), estão de acordo com a legislação vigente.",0.
+9,10,Em que condições o condenado poderá exercer trabalho externo no regime fechado?,"O condenado em regime fechado pode trabalhar externamente se:
+- Cumpre 1/6 da pena (se primário) ou 1/4 (se reincidente);
+- Comportamento adequado;
+- Trabalho compatível com a execução penal;
+- Autorização judicial.","Não há alucinação factual na resposta, pois os critérios apresentados para o trabalho externo de condenados em regime fechado — cumprimento de 1/6 da pena para primários ou 1/4 para reincidentes, bom comportamento, compatibilidade do trabalho com a execução penal e autorização judicial — estão de acordo com o previsto no Código Penal brasileiro e na Lei de Execução Penal.",0.
